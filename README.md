@@ -45,7 +45,7 @@ Virtual-Mouse/
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/YOUR-USERNAME/Virtual-Mouse.git
+git clone https://github.com/sanjeetdwivedi21/Virtual-Mouse.git
 cd Virtual-Mouse
 ```
 
@@ -116,7 +116,7 @@ This project controls the system mouse. Keep your hand movements deliberate, sav
 
 **YOUR NAME**
 
-- GitHub: https://github.com/YOUR-USERNAME
+- GitHub: https://github.com/sanjeetdwivedi21/Virtual-Mouse.git
 
 ---
 
